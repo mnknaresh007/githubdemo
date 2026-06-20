@@ -8,3 +8,4 @@ git checkout -b <branch-name> -> create a new branch form the current branch and
 git remote add origin https://github.com/mnknaresh007/githubdemo
 git push -u origin <branch-name>
 git pull
+git merge <branch-name>
